@@ -1,2 +1,2 @@
 # bookish-fishstick
-А это название предложил Github :]
+Это моя (будущая) VM
